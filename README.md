@@ -12,7 +12,9 @@ Intégrer ces données historiques afin de recalculer les TRS et enrichir l’an
 Fournir une vision data-driven du chantier, facilitant la prise de décision et l’amélioration continue
 
 L’objectif principal est de transformer des données de production brutes en indicateurs de performance fiables et exploitables, afin d’optimiser le pilotage des lignes industrielles et d’identifier rapidement les leviers de progrès.
+
 ---------------------------------------------------------------------------------------------------------
+
 Manufacturing Execution System (MES) – OEE Monitoring & Performance Management
 
 This project involves the development of a lightweight Manufacturing Execution System (MES) designed to collect, process, and analyze production data in order to improve industrial performance management.
